@@ -1,4 +1,4 @@
-##Facial Emotion Recognition using CNN
+#Facial Emotion Recognition using CNN
 This project builds a deep learning model using Convolutional Neural Networks (CNNs) to recognize human facial expressions from grayscale images. It classifies emotions like happy, sad, angry, surprised, disgust, fear, and neutral.
 
 🧠 Tech Stack & Tools
